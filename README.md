@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshyadv
 - 👀 I’m interested in ...technical stuff about game designing 
-- 🌱 I’m currently learning...Computer Science 
+- 🌱 I’m completed my...Computer Science Masters 
 - 💞️ I’m looking to collaborate on ...nothing 
 - 📫 How to reach me ...
 
