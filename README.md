@@ -17,7 +17,7 @@ I thrive in dynamic learning environments and enjoy tackling creative challenges
 - 📄 **Microsoft Office Suite**  
 
 ## 📚 Academic Work  
-- **Comparative Analysis of Quantum Convolutional Neural Networks (QCNNs) and ResNet-50**  
+- **[Comparative Analysis of Quantum Convolutional Neural Networks (QCNNs) and ResNet-50](https://github.com/Harshyadv/Final_Semester_Research_QCNN_vs_ResNet)**  
   - Conducted research on **medical image classification**, evaluating model performance for improved diagnostics.  
 
 ## 💡 Looking For  
