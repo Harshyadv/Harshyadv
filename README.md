@@ -18,7 +18,10 @@ I thrive in dynamic learning environments and enjoy tackling creative challenges
 
 ## 📚 Academic Work  
 - **[Comparative Analysis of Quantum Convolutional Neural Networks (QCNNs) and ResNet-50](https://github.com/Harshyadv/Final_Semester_Research_QCNN_vs_ResNet)**  
-  - Conducted research on **medical image classification**, evaluating model performance for improved diagnostics.  
+  - Conducted research on **medical image classification**, evaluating model performance for improved diagnostics.
+
+## 📄 Resume  
+📥 **[Download my Resume](https://github.com/Harshyadv/Harshyadv/releases/tag/Resume)**  
 
 ## 💡 Looking For  
 I'm **seeking opportunities** to get **professional experience** in **game design, UI/UX, AI research, or any role** where I can apply my skills in design and technology. If you're working on an exciting project, let's connect!  
