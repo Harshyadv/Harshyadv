@@ -20,6 +20,9 @@ I thrive in dynamic learning environments and enjoy tackling creative challenges
 - **[Comparative Analysis of Quantum Convolutional Neural Networks (QCNNs) and ResNet-50](https://github.com/Harshyadv/Final_Semester_Research_QCNN_vs_ResNet)**  
   - Conducted research on **medical image classification**, evaluating model performance for improved diagnostics.
 
+## 🏆 Certificates earned (Work in Progress)
+- freeCodeCamp's [Responsive Web Design](https://freecodecamp.org/certification/Hrshydv/responsive-web-design) course.
+
 ## 📄 Resume  
 📥 **[Download my Resume](https://github.com/Harshyadv/Harshyadv/releases/tag/Resume)**  
 
