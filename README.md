@@ -30,7 +30,7 @@ I thrive in dynamic learning environments and enjoy tackling creative challenges
 I'm **seeking opportunities** to get **professional experience** in **game design, UI/UX, AI research, or any role** where I can apply my skills in design and technology. If you're working on an exciting project, let's connect!  
 
 ## 📫 Get in Touch  
-📧 **Email**: yharshv271@gmail.com  
+📧 **Email**: [yharshv271@gmail.com](mailto:yharshv271@gmail.com)  
 🔗 **LinkedIn**: [hyadav0701](https://www.linkedin.com/in/hyadav0701/)  
 
 <!---
