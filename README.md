@@ -24,7 +24,7 @@ I thrive in dynamic learning environments and enjoy tackling creative challenges
 - freeCodeCamp's [Responsive Web Design](https://freecodecamp.org/certification/Hrshydv/responsive-web-design) course.
 
 ## 📄 Resume  
-📥 **[Download my Resume](https://github.com/Harshyadv/Harshyadv/releases/tag/Resume)**  
+📥 **[Download my Resume](https://github.com/Harshyadv/Harshyadv/releases/download/resume/Harsh.Yadav.pdf)**
 
 ## 💡 Looking For  
 I'm **seeking opportunities** to get **professional experience** in **game design, UI/UX, AI research, or any role** where I can apply my skills in design and technology. If you're working on an exciting project, let's connect!  
