@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harsh Yadav  
 
 ## 🚀 About Me  
-I'm a Computer Science Master's graduate from Guru Ghasidas University, passionate about technology, digital design, and open-source contributions. My expertise spans **game icon and logo design, pixel art, and Linux environments**, with a strong foundation in **AI and Quantum Computing**.  
+I'm a Computer Science Master's graduate from Guru Ghasidas University, passionate about technology, digital design, and open-source contributions. My expertise spans **game icon and logo design, pixel art, and Linux environments**.  
 
 I thrive in dynamic learning environments and enjoy tackling creative challenges. Whether it's **designing visuals for indie games** or **exploring innovative AI applications**, I'm always up for new opportunities to grow and contribute.  
 
