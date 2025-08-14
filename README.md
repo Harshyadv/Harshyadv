@@ -7,7 +7,7 @@ I thrive in dynamic learning environments and enjoy tackling creative challenges
 
 ## 🎨 Experience  
 - **Icon Designer @ [David Studio](https://www.linkedin.com/company/david-s-studio/about/)**  
-  - Designed **[game icons and logos](https://www.figma.com/files/team/1498231198139975724/drafts?fuid=1408801663614041685)** for an indie game, ensuring brand consistency and visual appeal.  
+  - Designed game icons and logos for an indie game, ensuring brand consistency and visual appeal.  
   - Collaborated closely with the art and design teams to create intuitive UI elements.  
 
 ## 📌 Skills  
